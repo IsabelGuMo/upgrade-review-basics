@@ -49,7 +49,6 @@ for (const user of users) {
         } else {
             favoritesSounds[favoriteSound]++;
         }
-
     }
 }
 console.log(favoritesSounds);
